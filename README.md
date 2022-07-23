@@ -2,9 +2,6 @@
 - 👀 I’m interested in Backend (Fullstack)
 - 🌱 I’m currently learning ReactJS/Typescript
 - 📫 How to reach me -> bekimfrangu7@gmail.com
-- Technologies:
-    PHP, Laravel, Lumen, Javascript, NodeJS, ExpressJS, VueJS, TailwindsCSS, Firebase, MySQL, MSSQL, MongoDB ...
-    <?php
 
 namespace BekimFrangu;
 
