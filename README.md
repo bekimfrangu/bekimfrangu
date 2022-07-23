@@ -6,9 +6,9 @@
     PHP, Laravel, Lumen, Javascript, NodeJS, ExpressJS, VueJS, TailwindsCSS, Firebase, MySQL, MSSQL, MongoDB ...
     <?php
 
-- namespace BekimFrangu;
+namespace BekimFrangu;
 
- - class About extends Me
+class About extends Me
 {
 
     public function technologies(): array
