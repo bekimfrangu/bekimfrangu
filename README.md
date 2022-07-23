@@ -7,10 +7,8 @@
     <?php
 
 namespace BekimFrangu;
-
 class About extends Me
 {
-
     public function technologies(): array
     {
         return [
