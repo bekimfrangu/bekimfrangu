@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @bekimfrangu
 - 👀 I’m interested in Backend (Fullstack)
-- 🌱 I’m currently learning ReactJS/Typescript/Firebase/VueJS
+- 🌱 I’m currently learning ReactJS/Typescript
+Technologies:
+PHP, Laravel, Lumen, Javascript, NodeJS, ExpressJS, VueJS, TailwindsCSS, Firebase, MySQL, MSSQL, MongoDB ...
 - 📫 How to reach me -> bekimfrangu7@gmail.com
 
 <?php
