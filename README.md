@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bekimfrangu
 - 👀 I’m interested in Backend (Fullstack)
-- 🌱 I’m currently learning ReactJS/Typescript
+- 🌱 I’m currently learning ReactJS/Typescript and Python/Django
 - 📫 How to reach me -> bekimfrangu7@gmail.com
 
 namespace BekimFrangu;
