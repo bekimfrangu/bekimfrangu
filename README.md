@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bekimfrangu
-- 👀 I’m interested in Backend (Fullstack)
-- 🌱 I’m currently learning ReactJS/Typescript and Python/Django
+- 👀 I’m interested in QA Engineering (Automation + Manual + AI)
 - 📫 How to reach me -> bekimfrangu7@gmail.com
 
 namespace BekimFrangu;
@@ -11,6 +10,9 @@ class About extends Me
     public function technologies(): array
     {
         return [
+            Playwright/Cypress/Selenium::class,
+            K6/Jmeter::class
+            AzureDevOps::class,
             PHP::class,
             Laravel::class,
             Lumen::class,
